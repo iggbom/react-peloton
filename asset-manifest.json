@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.js": "/react-peloton/static/js/main.a07296d7.chunk.js",
+    "main.js.map": "/react-peloton/static/js/main.a07296d7.chunk.js.map",
+    "runtime-main.js": "/react-peloton/static/js/runtime-main.ec8184de.js",
+    "runtime-main.js.map": "/react-peloton/static/js/runtime-main.ec8184de.js.map",
+    "static/js/2.2d3bbf7e.chunk.js": "/react-peloton/static/js/2.2d3bbf7e.chunk.js",
+    "static/js/2.2d3bbf7e.chunk.js.map": "/react-peloton/static/js/2.2d3bbf7e.chunk.js.map",
+    "index.html": "/react-peloton/index.html",
+    "precache-manifest.4ab9be237a5a8536aa1a641874adb23a.js": "/react-peloton/precache-manifest.4ab9be237a5a8536aa1a641874adb23a.js",
+    "service-worker.js": "/react-peloton/service-worker.js",
+    "static/js/2.2d3bbf7e.chunk.js.LICENSE.txt": "/react-peloton/static/js/2.2d3bbf7e.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ec8184de.js",
+    "static/js/2.2d3bbf7e.chunk.js",
+    "static/js/main.a07296d7.chunk.js"
+  ]
+}
